@@ -380,7 +380,7 @@ ol.type li a:hover {
 	color: #E87E04;
 }
 /* Achivements Section */
-/*#achievements {
+#achievements {
 	padding: 100px 0;
 	background: #7bc3d1;
 }
@@ -403,7 +403,7 @@ ol.type li a:hover {
 	color: #121d1f;
 	padding: 0;
 	margin: 0;
-}*/
+}
 /* Resume Section */
 #resume {
 	padding: 100px 0;
