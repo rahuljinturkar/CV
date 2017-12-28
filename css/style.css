@@ -407,7 +407,7 @@ ol.type li a:hover {
 /* Resume Section */
 #resume {
 	padding: 100px 0;
-	background: #7bc3d1;
+	background: #f6f6f6;
 }
 .timeline {
 	position: relative;
@@ -422,7 +422,7 @@ ol.type li a:hover {
 	left: 40px;
 	width: 2px;
 	margin-left: -1.5px;
-	background-color: #fff;
+	background-color: #eee;
 }
 .timeline>li {
 	position: relative;
@@ -502,7 +502,7 @@ ol.type li a:hover {
 }
 .timeline .timeline-heading h4.subheading {
 	text-transform: none;
-	color: #fff;
+	color: #629ca7;
 	font-size: 20px;
 }
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
