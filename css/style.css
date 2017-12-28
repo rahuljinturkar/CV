@@ -407,7 +407,7 @@ ol.type li a:hover {
 /* Resume Section */
 #resume {
 	padding: 100px 0;
-	background: #fff;
+	background: #f6f6f6;
 }
 .timeline {
 	position: relative;
@@ -512,7 +512,7 @@ ol.type li a:hover {
 #contact {
 	padding: 100px 0 40px 0;
 	color: #121d1f;
-	background: #fff;
+	background: #7bc3d1;
 }
 #contact h2 {
 	color: #fff;
