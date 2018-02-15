@@ -173,8 +173,9 @@ hr {
 	width: 100%;
 	height: auto;
 	padding: 100px 0;
-	text-align: center;
-	color: #fff;
+	text-align:center;
+	/*color: #fff;*/
+	color: red;
 	background: url(../img/intro-bg.jpg) no-repeat center top;
 	background-color: #7bc3d1;
 	-webkit-background-size: cover;
