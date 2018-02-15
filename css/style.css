@@ -647,9 +647,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-weight: 500;
 	letter-spacing: -2px;
 }
-.intro .name {
+/*.intro .name {
 	font-weight: 600;
-}
+}*/
 .intro .intro-text {
 	max-width: 75%;
 }
@@ -743,6 +743,3 @@ header .intro-text {
 }
 }
 
-#name_header{
-	text-align: center;
-}
