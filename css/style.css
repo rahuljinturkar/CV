@@ -605,7 +605,7 @@ color: #2c3e50;
 	margin-top: 15px;
 }
 #contact .btn:hover, #contact .btn:focus {
-	background-color:white;
+	background-color: #121d1f;
 	border: 1px solid #121d1f;
 }
 .btn:active, .btn.active {
