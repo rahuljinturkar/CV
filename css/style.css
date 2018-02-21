@@ -604,10 +604,10 @@ color: #2c3e50;
 	color: #fff;
 	margin-top: 15px;
 }
-#contact .btn:hover, #contact .btn:focus {
+/*#contact .btn:hover, #contact .btn:focus {
 	background-color: #121d1f;
 	border: 1px solid #121d1f;
-}
+}*/
 .btn:active, .btn.active {
 	background-image: none;
 	outline: 0;
