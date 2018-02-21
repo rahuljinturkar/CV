@@ -606,7 +606,7 @@ color: #2c3e50;
 }
 #contact .btn:hover, #contact .btn:focus {
 	/*background-color: #121d1f;*/
-	background-color:red;
+	background-color:gainsboro;
 	border: 1px solid #121d1f;
 }
 .btn:active, .btn.active {
