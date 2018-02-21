@@ -590,11 +590,11 @@ color: #2c3e50;
 #contact .social i.fa {
 	font-size: 30px;
 	padding: 4px 5px;
-	color: #fff;
+	color: black;
 	transition: all 0.5s;
 }
 #contact .social i.fa:hover {
-	color: #121d1f;
+	color: white;
 }
 #contact .btn {
 	background-color: transparent;
